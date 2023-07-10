@@ -1,11 +1,11 @@
 # horizontal-reader
 A simple javascript / css horizontal scrolling ebook style reader for websites
 
-This is a very light-weight e-book style horizontal scroller made for reading a lot of text -- although you can include images and pretty much any other html elements you like on the pages.
+This is a very lightweight and simple horizontal scroller made for reading a lot of text formatted in basic html. It is modeled after ebook readers. Although made for text, you can include images and pretty much any other html / css elements you like on the page.
 
-It uses css columns and "scroll-behavior: smooth;" for page animations.
+This will automatically adapt if you change the browser size, and it will collapse into one vertical scroll column on small screens.
 
-It will automatically adapt if you change browser size, and collapses into one vertical scroll column on small screens.
+It relies heavily on css columns.
 
 *** Things that still need some help, if you're interested in contributing! ***
 

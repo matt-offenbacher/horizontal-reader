@@ -5,12 +5,7 @@ body {
   background-color: #fcfcfc;
   color: #363636;
 }
-#horizontal-container {
-  margin: 8vh 30vw 0 30vw;
-}
-
 #horizontal-text {
-  height: 68vh;
   columns: 25.574vw 2;
   column-gap: 48px;
   widows: 2;

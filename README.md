@@ -13,4 +13,4 @@ It relies heavily on css columns.
 
 - Sometimes the page scroll gets a few pixels off, depending on browser width. I think this has to do with floating-point rounding problems in the javascript, but I haven't yet figured out how to fix. Maybe you can!
 
-  :)
+  :-)

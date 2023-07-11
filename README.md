@@ -11,6 +11,6 @@ It relies heavily on css columns.
 
 - The css ends with a bunch of media queries to try to keep nice-proportioned margins for different screen sizes. Maybe you can think of a more elegant / better solution?
 
-- Sometimes the page scroll gets a few pixels off, depending on browser width. I beleive this has to do with floating-point rounding problems in the javascript, but I haven't yet figured out how to fix. Maybe you can!
+- Sometimes the page scroll gets a few pixels off, depending on browser width. I think this has to do with floating-point rounding problems in the javascript, but I haven't yet figured out how to fix. Maybe you can!
 
   :)
